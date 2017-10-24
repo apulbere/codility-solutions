@@ -13,4 +13,5 @@
   * [FrogRiverOne](src/main/java/com/apulbere/codility/lesson4/frogriverone/Solution.java) - Find the earliest time when a frog can jump to the other side of a river
   * [MissingInteger](src/main/java/com/apulbere/codility/lesson4/missinginteger/Solution.java) - Find the minimal positive integer not occurring in a given sequence
 * Prefix Sums
-  * [PassingCars](src/main/java/com/apulbere/codility/lesson5/passingcars/Solution.java) - Count the number of passing cars on the road.
+  * [PassingCars](src/main/java/com/apulbere/codility/lesson5/passingcars/Solution.java) - Count the number of passing cars on the road
+  * [GenomicRangeQuery](src/main/scala/com/apulbere/codility/lesson5/genomicrangequery/Solution.scala) -  Find the minimal nucleotide from a range of sequence DNA
