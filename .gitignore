@@ -1,0 +1,7 @@
+.idea/
+*.iws
+*.iml
+.idea_modules/
+.gradle/
+**/out/**
+**/build/**
