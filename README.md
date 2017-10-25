@@ -15,4 +15,4 @@
 * Prefix Sums
   * [PassingCars](src/main/java/com/apulbere/codility/lesson5/passingcars/Solution.java) - Count the number of passing cars on the road
   * [GenomicRangeQuery](src/main/scala/com/apulbere/codility/lesson5/genomicrangequery/Solution.scala) -  Find the minimal nucleotide from a range of sequence DNA
-  * [MinAvgTwoSlice](src/main/scala/com/apulbere/codility/lesson5/minavgswoslice/Solution.scala) -  Find the minimal average of any slice containing at least two elements.
+  * [MinAvgTwoSlice](src/main/scala/com/apulbere/codility/lesson5/minavgtwoslice/Solution.scala) -  Find the minimal average of any slice containing at least two elements.
