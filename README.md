@@ -18,3 +18,4 @@
   * [MinAvgTwoSlice](src/main/scala/com/apulbere/codility/lesson5/minavgtwoslice/Solution.scala) -  Find the minimal average of any slice containing at least two elements.
 * Sorting
   * [Distinct](src/main/scala/com/apulbere/codility/lesson6/distinct/Solution.scala) - Compute number of distinct values in an array
+  * [Triangle](src/main/scala/com/apulbere/codility/lesson6/triangle/Solution.scala) - Determine whether a triangle can be built from a given set of edges
