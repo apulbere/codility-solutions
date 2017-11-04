@@ -19,3 +19,4 @@
 * Sorting
   * [Distinct](src/main/scala/com/apulbere/codility/lesson6/distinct/Solution.scala) - Compute number of distinct values in an array
   * [Triangle](src/main/scala/com/apulbere/codility/lesson6/triangle/Solution.scala) - Determine whether a triangle can be built from a given set of edges
+  * [MaxProductOfThree](src/main/scala/com/apulbere/codility/lesson6/maxproductofthree/Solution.scala) - Maximize A[P] * A[Q] * A[R] for any triplet (P, Q, R)
