@@ -3,7 +3,7 @@ package com.apulbere.codility.lesson6.triangle
 import org.scalatest.{Matchers, PropSpec}
 import org.scalatest.prop.TableDrivenPropertyChecks
 
-class SolutionTest extends PropSpec with  TableDrivenPropertyChecks with Matchers {
+class SolutionTest extends PropSpec with TableDrivenPropertyChecks with Matchers {
   val examples = Table(
     ("values", "triangle"),
     (Array(10, 2, 5, 1, 8, 20), 1),
