@@ -9,12 +9,12 @@ object Solution {
     val bracketStack = Stack[Char]()
 
     for(bracket <- bracketString) {
-      val openingBracket = bracketMap.getOrElse(bracket, null)
-      if(openingBracket == null) {
-        bracketStack.push(bracket)
-      } else {
-        if(bracketStack.isEmpty || openingBracket != bracketStack.pop())
-          return 0
+      bracketMap.get(bracket) match {
+        case Some(openingBracket) => {
+          if(bracketStack.isEmpty || openingBracket != bracketStack.pop())
+            return 0
+        }
+        case None => bracketStack.push(bracket)
       }
     }
     if(bracketStack.isEmpty) 1 else 0
