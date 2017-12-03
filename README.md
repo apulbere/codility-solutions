@@ -23,3 +23,4 @@
   * [NumberOfDiscIntersections](src/main/scala/com/apulbere/codility/lesson6/numberofdiscintersections/Solution.scala) - Compute the number of intersections in a sequence of discs
 * Stacks and Queues
   * [Brackets](src/main/scala/com/apulbere/codility/lesson7/brackets/Solution.scala) - Determine whether a given string of parentheses is properly nested
+  * [StoneWall](src/main/scala/com/apulbere/codility/lesson7/stonewall/Solution.scala) - Cover "Manhattan skyline" using the minimum number of rectangles
