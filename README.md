@@ -24,4 +24,6 @@
 * Stacks and Queues
   * [Brackets](src/main/scala/com/apulbere/codility/lesson7/brackets/Solution.scala) - Determine whether a given string of parentheses is properly nested
   * [StoneWall](src/main/scala/com/apulbere/codility/lesson7/stonewall/Solution.scala) - Cover "Manhattan skyline" using the minimum number of rectangles
-  * [Fish](src/main/scala/com/apulbere/codility/lesson7/fish/Solution.scala) -  N voracious fish are moving along a river. Calculate how many fish are alive
+  * [Fish](src/main/scala/com/apulbere/codility/lesson7/fish/Solution.scala) - N voracious fish are moving along a river. Calculate how many fish are alive
+* Maximum slice problem
+  * [MaxProfit](src/main/scala/com/apulbere/codility/lesson9/maxprofit/Solution.scala) - Given a log of stock prices compute the maximum possible earning
