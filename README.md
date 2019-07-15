@@ -29,3 +29,4 @@
   * [MaxProfit](src/main/scala/com/apulbere/codility/lesson9/maxprofit/Solution.scala) - Given a log of stock prices compute the maximum possible earning
 * Prime and composite numbers
   * [CountFactors](src/main/scala/com/apulbere/codility/lesson10/countfactors/Solution.scala) - Count factors of given number n
+  * [MinPerimeterRectangle](src/main/scala/com/apulbere/codility/lesson10/minperimeterrectangle/Solution.java) - find the minimal perimeter of any rectangle whose area equals N
