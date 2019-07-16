@@ -27,6 +27,7 @@
   * [Fish](src/main/scala/com/apulbere/codility/lesson7/fish/Solution.scala) - N voracious fish are moving along a river. Calculate how many fish are alive
 * Maximum slice problem
   * [MaxProfit](src/main/scala/com/apulbere/codility/lesson9/maxprofit/Solution.scala) - Given a log of stock prices compute the maximum possible earning
+  * [MaxSliceSum](src/main/scala/com/apulbere/codility/lesson9/maxslicesum/Solution.scala) - find the maximum sum of any slice of A
 * Prime and composite numbers
   * [CountFactors](src/main/scala/com/apulbere/codility/lesson10/countfactors/Solution.scala) - Count factors of given number n
   * [MinPerimeterRectangle](src/main/scala/com/apulbere/codility/lesson10/minperimeterrectangle/Solution.scala) - find the minimal perimeter of any rectangle whose area equals N
